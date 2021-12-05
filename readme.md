@@ -28,6 +28,7 @@ instagram:bryan bryson
 *{Determine the license under which this application can be used.  See below for more details on [MIT](license) licensing.}*
 Copyright (c) {2021}
 **{Made with pride for <a href="https://moringaschool.com" target="_blank">Moringa School</a>}**
+
 Moringa SchoolMoringa School
 Moringa School | Tech Skills Training for Career Readiness
 Our intensive curriculum empowers learners with the technical and soft skills needed to thrive in an ever-evolving industry to find long-term success in employment, entrepreneurship or further education. (71 kB)
