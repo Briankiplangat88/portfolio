@@ -1,8 +1,4 @@
-  .jumbotron-bg-image {
-      background-image: url(../assets/software.jpg);
-      background-repeat: no-repeat;
-      background-size: cover;
-  }
+
   .jumbotron{
     height: 50vh;
   }
@@ -12,10 +8,13 @@
         background-color: #1b2938;
         border-radius: .3rem;
       }
-  }
+  
   body{
     color: #94a5b6;
   }
-  .success{
-      background-image: url(../assets/back2.webp);
+  .jumbotron jumbotron-bg-image{
+    background-color: blue;
+
   }
+
+  
